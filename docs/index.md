@@ -17,4 +17,3 @@ Check out the [usage](usage) section for further information, including how to i
     :caption: Table of Contents
 
     usage.md
-    api.md
