@@ -14,4 +14,4 @@ Check out the [usage](usage.md) section for further information, including how t
 
 .. toctree::
 
-   usage
+   usage.md
