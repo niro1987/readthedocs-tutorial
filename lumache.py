@@ -16,7 +16,7 @@ def get_random_ingredients(kind=None):
 
 
     Parameters:
-        kind (list[str] | None, Optional) "kind" of ingredients. 
+        kind (list[str] | None, Optional): "kind" of ingredients. 
     
     Raises:
         lumache.InvalidKindError: If the kind is invalid.
