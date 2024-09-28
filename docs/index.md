@@ -13,6 +13,8 @@ Check out the [usage](usage) section for further information, including how to i
 ## Contents
 
 .. toctree::
+    :maxdepth: 2
+    :caption: Table of Contents
 
     usage.md
     api.md
