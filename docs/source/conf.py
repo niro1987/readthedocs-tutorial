@@ -53,6 +53,8 @@ napoleon_type_aliases = None
 napoleon_attr_annotations = True
 
 # myst settings
+# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-extensions
 myst_enable_extensions = [
-    "colon_fence",
+    'deflist',
+    'colon_fence',
 ]
