@@ -13,7 +13,7 @@ version = '0.1.0'
 
 # -- General configuration
 
-root_doc = 'index.md'
+root_doc = 'index'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
