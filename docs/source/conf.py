@@ -12,7 +12,6 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    'myst_parser',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
@@ -51,10 +50,3 @@ napoleon_use_rtype = True
 napoleon_preprocess_types = False
 napoleon_type_aliases = None
 napoleon_attr_annotations = True
-
-# myst settings
-# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-extensions
-myst_enable_extensions = [
-    'deflist',
-    'colon_fence',
-]
