@@ -14,5 +14,5 @@ Check out the [usage](usage) section for further information, including how to i
 
 .. toctree::
 
-    docs/usage.md
-    docs/api.md
+    usage.md
+    api.md
