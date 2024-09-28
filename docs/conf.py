@@ -41,6 +41,10 @@ html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+
+# myst settings
+source_suffix = ['.rst', '.md']
+
 # Napoleon settings
 napoleon_google_docstring = True
 napoleon_numpy_docstring = True
