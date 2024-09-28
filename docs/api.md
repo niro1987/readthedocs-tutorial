@@ -1,3 +1,6 @@
-# API Reference
+# API
 
-::: google
+.. autosummary::
+   :toctree: generated
+
+   lumache

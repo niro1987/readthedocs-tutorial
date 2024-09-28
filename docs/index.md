@@ -8,3 +8,11 @@ a *simple* and *intuitive* API.
 Check out the [usage](usage) section for further information, including how to [install](usage#installation) the project.
 
     This project is under active development.
+
+
+## Contents
+
+.. toctree::
+
+   usage
+   api

@@ -9,5 +9,4 @@ https://docs.readthedocs.io/en/stable/tutorial/
 
 ## Sources
 
-- https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/README.md
-- https://mkdocstrings.github.io/python/usage/
+- https://github.com/readthedocs/tutorial-template/
