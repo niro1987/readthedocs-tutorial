@@ -7,11 +7,11 @@ a *simple* and *intuitive* API.
 
 Check out the [usage](usage.md) section for further information, including how to install the project.
 
-    This project is under active development.
+   This project is under active development.
 
 
 ## Contents
 
 .. toctree::
 
-    /usage.md
+   usage
