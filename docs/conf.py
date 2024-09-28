@@ -15,6 +15,7 @@ version = '0.1.0'
 
 root_doc = 'index'
 extensions = [
+    'myst_parser',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
@@ -22,7 +23,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.napoleon',
     'sphinx.ext.todo',
-    'myst_parser',
 ]
 
 intersphinx_mapping = {
