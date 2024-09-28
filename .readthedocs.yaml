@@ -11,9 +11,8 @@ python:
     - method: pip
       path: .
 
-sphinx:
-  configuration: docs/source/conf.py
-  fail_on_warning: true
+mkdocs:
+  configuration: mkdocs.yml
 
 formats:
   - pdf
