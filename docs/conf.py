@@ -13,6 +13,7 @@ version = '0.1.0'
 
 # -- General configuration
 
+root_doc = 'index.md'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
@@ -35,7 +36,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-# html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
